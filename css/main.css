@@ -1142,7 +1142,9 @@ header .logo a {
 	width: 24px;
 	height: 3px;
 	margin-top: -1.5px;
-	font: 0/0 a;
+	/*font: 0/0 a;*/
+	font-family: "poppins-medium", sans-serif;
+	font-size: 1.5rem;
 	text-shadow: none;
 	color: transparent;
 	position: absolute;
